@@ -1,0 +1,153 @@
+#title{background-color:#00909e;color: #fff;}
+
+body{font-family: "Montserrat";}
+
+h1{font-family:'Montserrat-black', sans-serif; font-size: 3rem;line-height: 1.5;}
+.fluid container{padding: 3% 15%;}
+h2{font-family: Montserrat;font-weight: bold;font-size: 2rem;line-height: 1.5;}
+h3{font-family: Montserrat-bold;font-weight: bold;}
+@media(min-width:1001px) and (max-width: 1315px){h3 {font-size:1rem;} p{font-size:X-small;}
+
+}
+/* navigation bar */
+.navbar{padding-bottom: 4.5rem;}
+.navbar-brand{font-family: Ubuntu; font-size: 1.5rem;}
+.nav-item{padding:0 18px;}
+
+/* button */
+.download-button{margin: 8% 3% 5% 5%;padding-top: 10%}
+.btn-outline-light {margin-left:10px;}
+
+/* title image */
+.title-image{width:60%;margin-left:40px;}
+@media(min-width:500px) and (max-width:980px){.title-image{width:50%;margin-left: 230px;}}
+
+/* features */
+
+#features {padding:4% 10%; background-color: #fff;}
+.features-box{text-align:center;padding:5%;}
+
+
+p{color: #8f8f8f;}
+.icon{color:#74d4c0;margin-bottom: 1rem;}
+.icon:hover{color:#00909e;}
+
+/* testimonials */
+#testimonials{text-align: center;background-color: #00909e;color:#fff;}
+.testimonials-image{width:10%;border-radius: 100%;margin: 20px;}
+.image-2{border-radius: 100%;width:20%;margin: 20px;}
+.image-3{border-radius: 100%;width:20%;margin: 20px;}
+.carousel-item{padding:3% 15%;}
+/* press */
+#press{background-color: #00909e;text-align: center;padding-bottom: 3%;}
+.press-logo{width: 15%;margin: 20px 20px 50px;}
+
+/* pricing */
+  #pricing{text-align: center; margin-top: 20px;}
+  #collapse1{background-color: #74d4c0;}
+  .packages{text-align: centre;}
+  /* cta */
+  #cta{background-color: #00909e;margin-top: 20px;text-align: center;color: #fff;height: 200px;}
+  .lower{line-height: 2.5;}
+
+  /* Booking */
+
+  .container {
+    background-color: #74d4c0;
+    padding: 20px;
+    max-width: 600px;
+    margin-top: 20px;text-align: center;}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom:4px;}
+
+.container div {
+    margin-top: 1em;}
+
+input {
+    border: 1px solid #666;
+    padding: 4px;
+    font-size: 1em;
+    background-color: white;
+    width: 16em;
+  font-family: Consolas, monospace;}
+
+
+.result {
+    color: #666;
+    font-style: italic;
+    margin-left: 1em;
+    padding: 4px;
+    font-size: .8em;
+    background-color: #efefef;}
+
+.result:before {
+    content: 'value: ';
+    font-weight: bold;}
+
+    
+
+    /* contact.html */
+
+    .contact-us{background-color: #fff;text-align: center;}
+    .con{color: black;}
+
+    .btn-contact {
+    	box-shadow: 0 1px 0 0 #f0f7fa;
+    	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+    	background-color:#33bdef;
+    	border-radius:6px;
+    	border:1px solid #057fd0;
+    	display:inline-block;
+    	cursor:pointer;
+    	color:#ffffff;
+    	font-family:Arial;
+    	font-size:15px;
+    	font-weight:bold;
+    	padding:12px 9px;
+    	text-decoration:none;
+    	text-shadow:0 -1px 0 #5b6178;
+    }
+    .classname:btn-contact:hover {
+    	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+    	background-color:#019ad2;
+    }
+    .btn-contact:active {
+    	position:relative;
+    	top:1px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* footer */
+
+  #footer {background-color: #fff; text-align: center; padding-top: 2%;}
+  .f2{margin-left: 20px;}
+  .f3{margin-left: 20px;}
